@@ -1,4 +1,4 @@
-## AI Snake
+# AI Snake
 
 ### About
 A pet project where I'm familiarizing myself with Python and TensorFlow.
@@ -13,7 +13,7 @@ This project is my preperation for this AI course.
 - [ ] Again but with longer observation radius.
 
 ### User player
-![](https://github.com/JonShard/AISnake/blob/master/docs/Snake.png?raw=true)
+![](https://github.com/JonShard/AISnake/tree/master/docs/Snake.png?raw=true)
 
 #### Results
 Sucks at playing snake.
