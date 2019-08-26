@@ -13,7 +13,8 @@ This project is my preperation for this AI course.
 - [ ] Again but with longer observation radius.
 
 ### User player
-![](https://github.com/JonShard/AISnake/tree/master/docs/Snake.gif?raw=true)
+
+![](https://github.com/JonShard/AISnake/blob/master/docs/Snake.gif?raw=true)
 
 #### Results
 Sucks at playing snake.
