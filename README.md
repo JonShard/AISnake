@@ -3,7 +3,8 @@
 ### About
 A pet project where I'm familiarizing myself with Python and TensorFlow.
 In university I will be doing AI very soon(August 2019) using python and TensorFlow.
-This project is my preperation for this AI course.
+This project is my preperation for this AI course.  
+(Turns out this code didn't turn out to be very useful preperation after all, but learning more python was fun.)
 
 #### Progress
 - [X] Make Snake 
